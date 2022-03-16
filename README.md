@@ -16,5 +16,6 @@ Functionalities included during the dev process:
 <img src='VaccTrackSlow.gif' width='1220'>
 The Gif above shows an overview of the application. From being launched in the local computer, entering the page of the VaccTrack web application on Internet Explorer, login in as an admin/ healthcare worker, searching up a patient, adding a vaccination record to their file, additional notes on any reactions, and showing the database view where the same information appears on refresh.
 This project was an endeavor, but ultimately rewarding to me in developing a thorough understanding of creating an easily expandable web interface to match the data collection that happens in a clinical setting. There’s baseline importance in gearing any such project to the clinical perspective where there is ease for health information input and collection, as well from the decision support angle with ease of data extraction for longer-term trends analysis and reporting.
+
 # Disclaimer
 All data have been fictional for the use of the project, and no identifying information is available through the Web UI interface or database access.
