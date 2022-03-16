@@ -7,11 +7,11 @@ Functionalities included during the dev process:
 * Password encryption to protect these accounts.
 * Patient records search
 * Creation of new vaccination records with detailing of:
-** Type of vaccination
-** Date time of administration
-** Dose number
-** Administering healthcare worker
-** Clinic location
+  * Type of vaccination
+  * Date time of administration
+  * Dose number
+  * Administering healthcare worker
+  * Clinic location
 * Adding notes on the presence of vaccination reactions or absence of such
 <img src='VaccTrackSlow.gif' width='1220'>
 The Gif above shows an overview of the application. From being launched in the local computer, entering the page of the VaccTrack web application on Internet Explorer, login in as an admin/ healthcare worker, searching up a patient, adding a vaccination record to their file, additional notes on any reactions, and showing the database view where the same information appears on refresh.
